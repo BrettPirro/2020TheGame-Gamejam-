@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CPM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Hazards
+  - BackGround
+  - CheckPoints
+  - Button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2681856013
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Portal
+    uniqueID: 2509266523
+    locked: 0
+  - name: Interactables
+    uniqueID: 1812592315
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3955930017
+    locked: 0
+  - name: Player
+    uniqueID: 3973936601
+    locked: 0
+  - name: Hazards
+    uniqueID: 1350864551
+    locked: 0
